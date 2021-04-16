@@ -1,0 +1,4 @@
+streamlit
+pyjokes
+emoji
+vaderSentiment
